@@ -19,8 +19,8 @@ The calculated CPU usage for each node is printed to the console using the Conso
 End the program.
 
 ## Program :
-## DEVELOPED BY : BRINDHA.R
-## REG NO : 212222230023
+### DEVELOPED BY : BRINDHA.R
+### REG NO : 212222230023
 ```
 using System;
 public class Pattern
